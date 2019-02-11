@@ -1,3 +1,4 @@
+# [!REPORT ISSUES!](https://github.com/soundnodes/NODE14/issues/new)
 # NODE14
 
 WM8740/WM8741 DAC with,
